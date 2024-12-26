@@ -1,20 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc76eeaa-7b47-4ced-bab0-927e2f239e7c" name="Changes" comment="" />
+    <list default="true" id="bc76eeaa-7b47-4ced-bab0-927e2f239e7c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jagadeeshkrish"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jagadeeshkrish/PY3x_Learning_Selenium.git",
+    "accountId": "a139f24e-8689-4e59-b970-e3ae2d5c9a63"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2pcCukOlTnb7hAYdFzaK9NnQdG3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in test_sele_Lab001.py.executor": "Run",
+    "Python tests.Python tests in test_sele_Lab002.py.executor": "Run",
+    "Python tests.Python tests in test_sele_Lab003.py.executor": "Run",
+    "Python tests.Python tests in test_sele_Lab004.py.executor": "Run",
+    "Python tests.Python tests in test_sele_Lab005.py.executor": "Run",
+    "Python tests.Python tests in test_sele_Lab007.py.executor": "Run",
+    "Python tests.Python tests in test_sele_Lab008.py.executor": "Run",
+    "Python tests.Python tests in test_sele_Lab009.py.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/jagad/PycharmProjects/PY3x_Learning_Selenium/.venv/07082024"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jagad\PycharmProjects\PY3x_Learning_Selenium\.venv\07082024" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -33,5 +81,15 @@
       <updated>1733056202109</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/.venv/07082024/test_sele_Lab005.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
