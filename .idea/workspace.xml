@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc76eeaa-7b47-4ced-bab0-927e2f239e7c" name="Changes" comment="">
+    <list default="true" id="bc76eeaa-7b47-4ced-bab0-927e2f239e7c" name="Changes" comment="Mini projects">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,19 +19,32 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="origin/master" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {}
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/jagadeeshkrish/PY3x_Learning_Selenium.git",
-    "accountId": "a139f24e-8689-4e59-b970-e3ae2d5c9a63"
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jagadeeshkrish/PY3x_Learning_Selenium.git&quot;,
+    &quot;accountId&quot;: &quot;a139f24e-8689-4e59-b970-e3ae2d5c9a63&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -41,29 +54,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests in test_sele_Lab001.py.executor": "Run",
-    "Python tests.Python tests in test_sele_Lab002.py.executor": "Run",
-    "Python tests.Python tests in test_sele_Lab003.py.executor": "Run",
-    "Python tests.Python tests in test_sele_Lab004.py.executor": "Run",
-    "Python tests.Python tests in test_sele_Lab005.py.executor": "Run",
-    "Python tests.Python tests in test_sele_Lab007.py.executor": "Run",
-    "Python tests.Python tests in test_sele_Lab008.py.executor": "Run",
-    "Python tests.Python tests in test_sele_Lab009.py.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/jagad/PycharmProjects/PY3x_Learning_Selenium/.venv/07082024"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in test_sele_Lab001.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_sele_Lab002.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_sele_Lab003.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_sele_Lab004.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_sele_Lab005.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_sele_Lab007.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_sele_Lab008.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_sele_Lab009.py.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jagad/PycharmProjects/PY3x_Learning_Selenium/.venv/07082024&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jagad\PycharmProjects\PY3x_Learning_Selenium\.venv\07082024" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jagad\PycharmProjects\PY3x_Learning_Selenium" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -90,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735241199943</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Mini projects">
+      <option name="closed" value="true" />
+      <created>1735241976823</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735241976823</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -101,7 +125,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/.venv/07082024/test_sele_Lab005.py</url>
+          <url>file://$PROJECT_DIR$/07082024/test_sele_Lab005.py</url>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
